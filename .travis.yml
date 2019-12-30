@@ -1,5 +1,6 @@
 language: java
-script: javac FallFinal.java
-        java FallFinal
+script: 
+- javac FallFinal.java
+- java FallFinal
 
  
